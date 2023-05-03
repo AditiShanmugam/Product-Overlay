@@ -30,7 +30,6 @@ Rear-right | 23 | 108
 # Model 
 
 ## Model: RegNet
-Sure, here's an optimized response:
 
 RegNet is a convolutional neural network architecture proposed by Facebook AI Research in 2020. It is called "RegNet" because it uses network pruning to create a more efficient CNN. The network pruning technique removes unnecessary connections and filters from the network to improve its computational efficiency while maintaining its performance.
 
